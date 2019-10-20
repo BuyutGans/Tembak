@@ -1,20 +1,30 @@
 # Tembak
-
-#Install
+##########
+# Install#
+##########
 $pkg install git
 $pkg install python
 $git clone https://github.com/BuyutGans/Tembak
-
-#Menjalankan
+##############
+# Menjalankan#
+##############
 $cd Tembak
 $python2 dor.py
-
-#Fungsi
+#########
+# Fungsi#
+#########
 Beli Kuota Murah
-#Bug
+######
+# Bug#
+######
 Hubungi Author
 whatsapp:+62 819-1857-4379
-#Telkomsel
+############
+# Telkomsel#
+############
 Masih Di Buat
-#Tri
+#######
+# Tri #
+#######
 Akan Terus Di Kembangkan
+Terimakasih
